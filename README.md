@@ -1,15 +1,18 @@
 ### Hi there 👋
-- 🔭 I'm a consultant at [Warpnet B.V.](https://warpnet.nl) with over five years of **Site Reliability Engineering (SRE)** and **DevOps** experience at various companies like [DUO](https://duo.nl/), [KPN](https://www.kpn.com/) and [CJIB](https://www.cjib.nl/).
-- 🌱 I've made several [contributions to open source](https://github.com/roaldnefs), to tools such as [SaltStack](https://github.com/saltstack/salt/pulls?q=is%3Apr+author%3Aroaldnefs), [Prometheus](https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs), [rfcat](https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs) and [many more](https://github.com/roaldnefs).
-- ⚡ Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
-- 💬 You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) ([PGP](https://roaldnefs.com/key.asc)), Twitter ([@roaldnefs](https://twitter.com/roaldnefs)), and [LinkedIn](https://www.linkedin.com/in/roaldnefs/).
+- Did MS at [University of California, San Diego](https://ucsd.edu/) in **ECE - Machine Learning and Data Science**.  
+- Prior to that, I was working with [Mastercard](https://www.mastercard.us/en-us.html) 4+ years as a **Software Engineer (Infrastructure Automation Services)**.
+- ⚡ **Current Interests:** Deep Learning, Efficient ML, Deep Learning Systems / Infrastructure, MLOps, Devops.
+- 💬 You can get in touch with me by email at [roshan.karande@outlook.com](mailto:roshan.karande@outlook.com) and [LinkedIn](https://www.linkedin.com/in/roshan-karande-196b45a1/).
+
+<!-- - 🌱 I've made several [contributions to open source](https://github.com/roaldnefs), to tools such as [SaltStack](https://github.com/saltstack/salt/pulls?q=is%3Apr+author%3Aroaldnefs), [Prometheus](https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs), [rfcat](https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs) and [many more](https://github.com/roaldnefs). -->
+
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="CJIB" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/cjib.jpeg?raw=true"/>](https://www.cjib.nl/)
 
-**Security Specialist 22323** \
+**Devops Engineer, Infrastructure Automation Services** \
 [**CJIB**](https://www.cjib.nl/) • Contract \
 Languages & Technologies: `Java` \
 <br/>
