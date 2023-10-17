@@ -9,7 +9,7 @@
 [<img align="left" height="90px" width="150px" alt="UC San Diego" src="./images/logo_ucsd.jpg">](https://ucsd.edu/)
 
 
-**MS - ECE Machine Learning and Data Science** | [**UC San Diego**](https://ucsd.edu/)  \
+**MS - ECE, Machine Learning and Data Science** | [**UC San Diego**](https://ucsd.edu/)  \
 Courses: `Probility & Statistics`, `Linear Algebra`, `Search & Optimization`, `Convex Optimization`, `Semidefinite Optimization`, `Statistical Reasoning`, `ML: Learning Algorithms`, `Prob. Reasoning & Learning`, `Recommender Systems`, `Statistical NLP`, `Unsupervised Learning`, `Parallel Computation`, `Graduate Network Systems`, `Efficient ML and DL Systems`
 <br/>
 
@@ -28,7 +28,7 @@ Platforms:  `Windows Server`, `Docker`, `Kubernetes`, `AWS`,  `Linux`, `VMware v
 
 [<img align="left" height="90" width="150px" alt="Deutsche Bank" src="./images/logo_db.png"/>](https://warpnet.nl/)
 
-**Intern (Devops)** | [**Deutsche Bank**](https://www.db.com/) \
+**Intern , Devops** | [**Deutsche Bank**](https://www.db.com/) 
 Languages & Technologies: `Python`, `C#`, `Teamcity`  \
 Featured Projects: Process Improvement for application development and deployment . Part of CI-CD effort. \
 Platforms:  `Windows Server`
