@@ -39,7 +39,7 @@ Platforms:  `Windows Server`
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roshan-karande-196b45a1/) for a more detailed description of my full work experience, education and certification.
 
-### Projects
+<!-- ### Projects -->
 
 
 <!-- ### Blog Posts
