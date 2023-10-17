@@ -28,7 +28,7 @@ Platforms:  `Windows Server`, `Docker`, `Kubernetes`, `AWS`,  `Linux`, `VMware v
 
 [<img align="left" height="90" width="150px" alt="Deutsche Bank" src="./images/logo_db.png"/>](https://warpnet.nl/)
 
-**Intern , Devops** | [**Deutsche Bank**](https://www.db.com/) 
+**Intern, Devops** | [**Deutsche Bank**](https://www.db.com/) 
 Languages & Technologies: `Python`, `C#`, `Teamcity`  \
 Featured Projects: Process Improvement for application development and deployment . Part of CI-CD effort. \
 Platforms:  `Windows Server`
