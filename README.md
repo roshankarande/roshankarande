@@ -47,17 +47,6 @@ In the overview below you will find the featured [posts](https://roaldnefs.com/p
 
 <!-- BLOG_START -->
 <!-- - [Spoofing Microchips used for Animal Identification](https://roaldnefs.com/posts/2022/11/spoofing-microchips-used-for-animal-identification/) (2022-11-30)
-- [How to Automatically Generate Clients for your REST API](https://roaldnefs.com/posts/2020/12/how-to-automatically-generate-clients-for-your-rest-api/) (2020-12-19)
-- [Ding Dong Ditch using SDR and Arduino](https://roaldnefs.com/posts/2020/01/ding-dong-ditch-using-sdr-and-arduino/) (2020-01-02)
-- [Hardware Reversing the Sitecom Wireless Router 150N X1](https://roaldnefs.com/posts/2019/12/hardware-reverse-a-wireless-router/) (2019-12-14) -->
 <!-- BLOG_END -->
-
-<!-- ### Credits
-I would like to thank everyone who has supported me in my open-source contributions and projects. I should mention at least a few of them:
-
-- [Warpnet B.V.](https://warpnet.nl), which is also my employer, for giving me the freedom to contibute to whatever open-source project I do see fit and spend a significant portion of my work time doing this.
-- Every open-source contributor and maintainer who has ever reviewed any of my contributions, or just replied to the issues I've raised.
-- Several companies that found a way to support my work:
-  - [TransIP](https://www.transip.eu/) for (temporary) providing me with free credits to test the deployment of VPSs in several open-source project. -->
 
 If you would like to get in touch with me via [email](mailto:roshan.karande@outlook.com) or [LinkedIn](https://www.linkedin.com/in/roshan-karande-196b45a1/).
