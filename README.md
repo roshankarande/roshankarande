@@ -2,7 +2,7 @@
 - Did MS at [University of California, San Diego](https://ucsd.edu/) in **ECE - Machine Learning and Data Science**.  
 - Prior to that, I was working with [Mastercard](https://www.mastercard.us/en-us.html) 4+ years as a **Software Engineer (Infrastructure Automation Services)**.
 - ⚡ **Current Interests:** Deep Learning, Efficient ML, Deep Learning Systems / Infrastructure, MLOps, Devops.
-- 💬 You can get in touch with me by email at [roshan.karande@outlook.com](mailto:roshan.karande@outlook.com) and [LinkedIn](https://www.linkedin.com/in/roshan-karande-196b45a1/).
+- 💬 You can get in touch with me by email at [roshan.karande@outlook.com](mailto:roshan.karande@outlook.com) and [LinkedIn](www.linkedin.com/in/roshankarande).
 
 ### Education
 
@@ -26,7 +26,7 @@ Technologies: `Terraform`, `Packer`, `Pulumi`, `Jenkins`, `Chef`, `Artifactory` 
 Platforms:  `Windows Server`, `Docker`, `Kubernetes`, `AWS`,  `Linux`, `VMware vSphere`, `vRealize Orchestrator`   \
 <br/>
 
-[<img align="left" height="90" width="150px" alt="Deutsche Bank" src="./images/logo_db.png"/>](https://warpnet.nl/)
+[<img align="left" height="90" width="150px" alt="Deutsche Bank" src="./images/logo_db.png"/>](https://www.db.com/)
 
 **Intern, Devops** | [**Deutsche Bank**](https://www.db.com/) \
 Languages & Technologies: `Python`, `C#`, `Teamcity`  \
@@ -35,7 +35,7 @@ Platforms:  `Windows Server`
 <br/>
 <br/>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/roshan-karande-196b45a1/) for a more detailed description of my full work experience, education and certification.
+Please find me on [LinkedIn](www.linkedin.com/in/roshankarande) for a more detailed description of my full work experience, education and certification.
 
 <!-- ### Projects -->
 
@@ -47,4 +47,4 @@ In the overview below you will find the featured [posts](https://roaldnefs.com/p
 <!-- - [Spoofing Microchips used for Animal Identification](https://roaldnefs.com/posts/2022/11/spoofing-microchips-used-for-animal-identification/) (2022-11-30)
 <!-- BLOG_END -->
 
-If you would like to get in touch with me via [email](mailto:roshan.karande@outlook.com) or [LinkedIn](https://www.linkedin.com/in/roshan-karande-196b45a1/).
+If you would like to get in touch with me via [email](mailto:roshan.karande@outlook.com) or [LinkedIn](www.linkedin.com/in/roshankarande).
