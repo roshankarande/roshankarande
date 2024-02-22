@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Did MS at [University of California, San Diego](https://ucsd.edu/) in **ECE - Machine Learning and Data Science**.  
 - Prior to that, I was working with [Mastercard](https://www.mastercard.us/en-us.html) 4+ years as a **Software Engineer (Infrastructure Automation Services)**.
-- ⚡ **Current Interests:** Deep Learning, Efficient ML, Deep Learning Systems / Infrastructure, MLOps, Devops.
+- ⚡ **Current Interests:** Software Development, Deep Learning, Efficient ML, Deep Learning Systems / Infrastructure, MLOps, Devops.
 - 💬 You can get in touch with me by email at [roshan.karande@outlook.com](mailto:roshan.karande@outlook.com) and [LinkedIn](https://www.linkedin.com/in/roshankarande/).
 
 ### Education
